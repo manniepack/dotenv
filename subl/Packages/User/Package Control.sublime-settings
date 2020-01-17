@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Babel",
+		"HexViewer",
+		"INI",
+		"JsPrettier",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Theme - Afterglow"
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"default_line_ending": "unix",
+	"drag_text": false,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Dank Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 3,
+	"margin": 0,
+	"match_brackets_angle": true,
+	"predawn_sidebar_arrows": true,
+	"predawn_sidebar_xlarge": true,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_medium": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
